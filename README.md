@@ -19,7 +19,7 @@ Proyecto realizado el 20 de abril de 2025 como parte del bootcamp de TripleTen. 
 - `notebooks/operadores_ineficaces_callmemaybe.ipynb`: Jupyter Notebook con el análisis completo.
 - `data/`: Datasets originales (no incluidos por restricciones).
 - `output/`: Capturas de gráficos y enlace al dashboard de Tableau.
-- `tableau_dashboard/`: Enlace al dashboard público en Tableau.
+- `tableau_dashboard/`: ﻿https://public.tableau.com/views/CallMeMaybeDashboards-IdentificacindeOperadoresIneficaces/VolumendeLlamadasyTipodeLlamadas?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Instrucciones
 1. Clona el repositorio: `git clone https://github.com/adriangalvanzamora/operadores-ineficaces-callmemaybe.git`
