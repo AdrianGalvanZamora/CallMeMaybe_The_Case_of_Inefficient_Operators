@@ -1,6 +1,9 @@
 # 📞 CallMeMaybe: El Caso de los Operadores Ineficientes  
 ### 🕵️‍♂️ Análisis predictivo de eficiencia en centros de atención  
 
+## 🇬🇧 English Version Below  
+---
+
 ## 📘 Descripción del Proyecto  
 Este proyecto analiza la eficiencia operativa de un centro de atención al cliente utilizando métricas inspiradas en datos reales. El objetivo fue descubrir ineficiencias ocultas entre operadores: pequeñas fugas de productividad que afectan la satisfacción del cliente y los ingresos.  
 
@@ -62,8 +65,6 @@ Permite detectar cuellos de botella, reducir tiempos de respuesta y mejorar la s
 
 ---
 
-## 🇬🇧 English Version Below  
----
 
 # 📞 CallMeMaybe: The Case of Inefficient Operators  
 ### 🧠 Predictive Analysis of Contact Center Efficiency  
